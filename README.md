@@ -1,2 +1,2 @@
-# Farming Macro Mod 1.8.9 
-## Get Good Get Macro 
+# Freelook mod 1.8.9
+## Freelook / Perspective mod. Allows you to freely look around!
